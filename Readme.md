@@ -1,4 +1,4 @@
-# Wikipedia Mobile Automation Project
+## Wikipedia Mobile Automation Project
 
 ## Overview
 This project automates key functionalities of the Wikipedia Android app using **Appium** and **TestNG**.  
