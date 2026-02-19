@@ -22,4 +22,4 @@ It demonstrates mobile automation skills including element identification, inter
 ## How to Run
 1. Clone the repository:  
 ```bash
-git clone https://github.com/<your-username>/Wikipedia-Appium-Automation.git
+git clone https://github.com/itsmeharipriya/Appium-Wiki-Project.git
